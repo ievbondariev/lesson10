@@ -83,6 +83,7 @@ class FieldOfMiracles
         {
             Console.Clear();
             Console.WriteLine("Можливо наступного разу! До побачення!");
+
         }
     }
 }
